@@ -1,0 +1,11 @@
+b6abcf684d5372d582e40f33a5986963 *DESCRIPTION
+4ac964c01b84f74888d9cc14ad8f9fa6 *NAMESPACE
+bbbc13510ecda732e733300bdf77e18c *R/FUNs_Event_Prob.R
+91fdc2bab5cf634c7beed3ac49b2259b *R/FUNs_LFU.R
+b53785907679d431f760165ca375007d *R/FUNs_Para_FixAlter.R
+0dd8a4fd02954757b4e0b97cf4dfddf9 *R/Find_h.R
+b2c5cbc89b9afbf2c62047c4945f0487 *R/General_tau.R
+7ba4a3b03b2a7ab8d2c41ee12249b524 *R/SSize_FixAlter.R
+f678beb7072f464010499c256af5b990 *man/Find.h.Rd
+4e1db47de1ac6342c7f8f9be9e9f8f78 *man/General.tau.Rd
+020401a208d33b0c4054e12df6eec9b6 *man/SSize.FixAlter.Rd
